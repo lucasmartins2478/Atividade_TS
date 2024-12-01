@@ -1,23 +1,9 @@
-<<<<<<< HEAD
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
 # Atividade_TS
 Tarefa individual da matéria de UI/UX e Testes de Software - Caixa Branca
->>>>>>> 2686e55f0cbc1439a624f1897e0a2a67985023bb
+
+# Erros identificados
+
+Um dos erros que eu notei foi a falta do tratamento de erro, no catch, onde poderia aparecer uma mensagem de erro, além do metodoi
+newInstance() que esta depreciado, e a forma como a instrução sql está sendo realizada, sendo que poderia ser usada de uma forma melhor 
+e mais utilidada que seria passando ? nos lugares das informações a serem verificadas e adicionar elas depois da instrução
