@@ -40,3 +40,7 @@ Os caminhos básicos identificados são:
 5. Exceção nos Nodos `4`, `6`, ou `18`, levando ao `Nodo 22`.
 
 # ETAPA 4
+
+Nesse repositório utilizei o código java disponibilizado pelo professor para a atividade de testes de caixa branca,
+onde identificamos o fluxo do código e possíveis erros, além de realizar os grafos do código e calcular a complexidade 
+ciclomática do código, por fim, documentei o código para concluir a atividade.
