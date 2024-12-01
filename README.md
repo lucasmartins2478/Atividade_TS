@@ -10,6 +10,12 @@ Um dos erros que eu notei foi a falta do tratamento de erro, no catch, onde pode
 newInstance() que esta depreciado, e a forma como a instrução sql está sendo realizada, sendo que poderia ser usada de uma forma melhor
 e mais utilidada que seria passando ? nos lugares das informações a serem verificadas e adicionar elas depois da instrução
 
+# ETAPA 2
+
+### Preenchimento do formulário de teste estático
+
+![Formulário preenchido](/src/login/teste_caixa_branca.png)
+
 # ETAPA 3
 
 ### Grafo de Fluxo
